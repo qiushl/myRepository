@@ -24,7 +24,7 @@ public class UsersController {
 //			return "showAllUrl";
 			return "redirect:/main.jsp";
 		}
-		return "redirect:/login.jsp";
+		return "redirect:/login121212.jsp";
 	}
 	
 	@RequestMapping("demo")
