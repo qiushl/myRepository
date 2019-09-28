@@ -4,7 +4,10 @@ import java.util.List;
 
 public class Users {
 	private int id;
-	private String username;
+	private void syso() {
+		// TODO Auto-generated method stub
+
+	};
 	private int password;
 	
 	private List<Menu> menus;
