@@ -2,4 +2,5 @@
 /com/
 /db.properties
 /log4j.properties
+/my.xml
 /springmvc.xml
