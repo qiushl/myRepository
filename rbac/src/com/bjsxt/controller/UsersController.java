@@ -20,7 +20,7 @@ public class UsersController {
 		Map<String,Object> map = usersServiceImpl.login(users);
 		if(map.get("user")!=null){
 			session.setAttribute("user", map.get("user"));
-			session.setAttribute("allurl", map.get("allurl"));
+			int i=0;
 //			return "showAllUrl";
 			return "redirect:/main.jsp";
 		}
