@@ -4,7 +4,7 @@ import java.util.List;
 
 public class Users {
 	private int id;
-	private void intmy123213() {
+	private void hello() {
 		// TODO Auto-generated method stub
 
 	};
