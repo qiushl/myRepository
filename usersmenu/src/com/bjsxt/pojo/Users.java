@@ -5,7 +5,7 @@ import java.util.List;
 public class Users {
 	private int id;
 	private String username;
-	private String password;
+	private int password;
 	
 	private List<Menu> menus;
 	
